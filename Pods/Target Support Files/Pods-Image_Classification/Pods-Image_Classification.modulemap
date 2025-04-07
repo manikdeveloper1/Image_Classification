@@ -1,0 +1,6 @@
+framework module Pods_Image_Classification {
+  umbrella header "Pods-Image_Classification-umbrella.h"
+
+  export *
+  module * { export * }
+}
