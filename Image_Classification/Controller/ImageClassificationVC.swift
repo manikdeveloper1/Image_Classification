@@ -37,6 +37,7 @@ class ImageClassificationVC: UIViewController, PHPickerViewControllerDelegate {
         viewPredict.layer.cornerRadius = 24
         interpreter = loadModel()
         lblResult.isHidden = true
+        // hii
     }
     
     // To load model from .tflite file
